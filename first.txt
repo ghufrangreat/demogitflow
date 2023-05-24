@@ -1,2 +1,8 @@
 ebaseat
+<<<<<<< HEAD
 changes addedd in main
+=======
+
+
+New changes
+>>>>>>> dev
